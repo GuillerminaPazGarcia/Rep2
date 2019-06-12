@@ -1,4 +1,1 @@
-int main()
-{
-printf("Hola mundo");
-} chiste
+Hicieron desastre
